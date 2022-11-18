@@ -1,0 +1,28 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    font-family: 'Rubik Puddles', cursive;
+    font-size: 100px;
+    font-weight: lighter;
+    color:white;
+}
+
+img {
+    border-radius: 60%;
+}
+
+h2 {
+    color: white;
+    font-family: 'Capriola', sans-serif;
+}
+
+p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    position: center;
+}
